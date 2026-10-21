@@ -1,0 +1,7 @@
+device_id,device_type,os,browser
+1,Laptop,Windows 11,Chrome
+2,Laptop,Windows 10,Edge
+3,Laptop,macOS,Safari
+4,Laptop,Ubuntu,Firefox
+5,Mobile,Android,Chrome
+6,Mobile,iOS,Safari

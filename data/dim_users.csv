@@ -1,0 +1,151 @@
+user_id,full_name,email,department,is_vip,home_location_id
+USR-0001,Allison Hill,allison.hill@examplecorp.com,Executive,True,1
+USR-0002,Stephanie Miller,stephanie.miller@examplecorp.com,Executive,True,2
+USR-0003,David Guzman,david.guzman@examplecorp.com,Engineering,False,1
+USR-0004,Kevin Pacheco,kevin.pacheco@examplecorp.com,Finance,False,1
+USR-0005,Gina Moore,gina.moore@examplecorp.com,Sales,False,1
+USR-0006,James Howard,james.howard@examplecorp.com,Finance,False,1
+USR-0007,Monica Herrera,monica.herrera@examplecorp.com,IT Security,True,1
+USR-0008,Edward Fuller,edward.fuller@examplecorp.com,Engineering,False,2
+USR-0009,Michele Williams,michele.williams@examplecorp.com,Sales,False,2
+USR-0010,Dr. Sharon James,dr..sharon.james@examplecorp.com,Engineering,False,2
+USR-0011,Henry Santiago,henry.santiago@examplecorp.com,HR,False,1
+USR-0012,Carolyn Daniel,carolyn.daniel@examplecorp.com,HR,False,1
+USR-0013,Timothy Watts,timothy.watts@examplecorp.com,Sales,False,1
+USR-0014,Patty Perez,patty.perez@examplecorp.com,HR,False,2
+USR-0015,Austin Gentry,austin.gentry@examplecorp.com,Executive,True,2
+USR-0016,Jonathan Wilkerson,jonathan.wilkerson@examplecorp.com,Finance,False,2
+USR-0017,David Hoffman,david.hoffman@examplecorp.com,IT Security,True,2
+USR-0018,Jennifer Robinson,jennifer.robinson@examplecorp.com,IT Security,True,2
+USR-0019,Anthony Rodriguez,anthony.rodriguez@examplecorp.com,Engineering,False,1
+USR-0020,Janice Carlson,janice.carlson@examplecorp.com,Executive,True,1
+USR-0021,Shannon Smith,shannon.smith@examplecorp.com,Finance,False,1
+USR-0022,Gina Carter,gina.carter@examplecorp.com,Sales,False,2
+USR-0023,Sherri Baker,sherri.baker@examplecorp.com,Executive,True,2
+USR-0024,Ashley Garrett,ashley.garrett@examplecorp.com,HR,False,2
+USR-0025,Phillip Ryan,phillip.ryan@examplecorp.com,Executive,True,2
+USR-0026,Katherine Rodriguez,katherine.rodriguez@examplecorp.com,Executive,True,1
+USR-0027,David Bradley,david.bradley@examplecorp.com,Executive,True,1
+USR-0028,Vanessa Patel,vanessa.patel@examplecorp.com,Executive,True,1
+USR-0029,Carmen Rose,carmen.rose@examplecorp.com,Sales,False,2
+USR-0030,Nicole Vaughn,nicole.vaughn@examplecorp.com,Executive,True,1
+USR-0031,Marie Kim DDS,marie.kim.dds@examplecorp.com,HR,False,1
+USR-0032,Alex Spencer,alex.spencer@examplecorp.com,Finance,False,2
+USR-0033,Mark Perez,mark.perez@examplecorp.com,HR,False,1
+USR-0034,David Caldwell,david.caldwell@examplecorp.com,IT Security,True,2
+USR-0035,Sonya Johnston,sonya.johnston@examplecorp.com,Executive,True,2
+USR-0036,Cheryl Davis,cheryl.davis@examplecorp.com,Executive,True,2
+USR-0037,Scott Brown,scott.brown@examplecorp.com,HR,False,1
+USR-0038,Nicholas Mcbride,nicholas.mcbride@examplecorp.com,Executive,True,2
+USR-0039,Jerry Henderson,jerry.henderson@examplecorp.com,IT Security,True,2
+USR-0040,Angela Morton,angela.morton@examplecorp.com,Sales,False,2
+USR-0041,Zachary Huff,zachary.huff@examplecorp.com,Engineering,False,2
+USR-0042,John Lewis,john.lewis@examplecorp.com,Finance,False,1
+USR-0043,Aaron Myers,aaron.myers@examplecorp.com,Executive,True,1
+USR-0044,Michael Cross,michael.cross@examplecorp.com,Sales,False,1
+USR-0045,Edward Novak,edward.novak@examplecorp.com,Sales,False,2
+USR-0046,Amy Silva,amy.silva@examplecorp.com,HR,False,1
+USR-0047,Jordan York,jordan.york@examplecorp.com,Executive,True,1
+USR-0048,Cynthia Wilson,cynthia.wilson@examplecorp.com,IT Security,True,2
+USR-0049,Amanda Miller,amanda.miller@examplecorp.com,HR,False,1
+USR-0050,Christina Moran,christina.moran@examplecorp.com,Sales,False,1
+USR-0051,Matthew Bryant,matthew.bryant@examplecorp.com,Finance,False,2
+USR-0052,Marc Hart,marc.hart@examplecorp.com,Engineering,False,1
+USR-0053,Brandi Bailey,brandi.bailey@examplecorp.com,HR,False,1
+USR-0054,Christopher Bass,christopher.bass@examplecorp.com,HR,False,1
+USR-0055,Kristen Huynh,kristen.huynh@examplecorp.com,IT Security,True,1
+USR-0056,Steve Newton,steve.newton@examplecorp.com,HR,False,2
+USR-0057,Michelle Harris,michelle.harris@examplecorp.com,Finance,False,2
+USR-0058,Danielle Odonnell,danielle.odonnell@examplecorp.com,Engineering,False,1
+USR-0059,Amanda Cook,amanda.cook@examplecorp.com,IT Security,True,1
+USR-0060,Jeremy Thornton,jeremy.thornton@examplecorp.com,Executive,True,2
+USR-0061,Stephen Mckee,stephen.mckee@examplecorp.com,IT Security,True,1
+USR-0062,Brittany Anderson,brittany.anderson@examplecorp.com,Executive,True,2
+USR-0063,Christine Wright,christine.wright@examplecorp.com,Engineering,False,2
+USR-0064,Nicole Frost,nicole.frost@examplecorp.com,IT Security,True,2
+USR-0065,Rita Keith,rita.keith@examplecorp.com,IT Security,True,1
+USR-0066,Jennifer Santiago,jennifer.santiago@examplecorp.com,HR,False,2
+USR-0067,Richard Rodriguez,richard.rodriguez@examplecorp.com,Executive,True,2
+USR-0068,Robert Stevens,robert.stevens@examplecorp.com,IT Security,True,2
+USR-0069,Matthew Ross,matthew.ross@examplecorp.com,Engineering,False,1
+USR-0070,Diana May,diana.may@examplecorp.com,HR,False,1
+USR-0071,Ashley Waller,ashley.waller@examplecorp.com,IT Security,True,1
+USR-0072,Kyle Reed,kyle.reed@examplecorp.com,Engineering,False,1
+USR-0073,Kayla Cruz,kayla.cruz@examplecorp.com,Executive,True,1
+USR-0074,Jeffrey Meyer,jeffrey.meyer@examplecorp.com,Finance,False,1
+USR-0075,Benjamin Beck,benjamin.beck@examplecorp.com,Finance,False,1
+USR-0076,Belinda Mccullough,belinda.mccullough@examplecorp.com,Executive,True,2
+USR-0077,Michael Spencer,michael.spencer@examplecorp.com,IT Security,True,1
+USR-0078,Stephanie Gilbert,stephanie.gilbert@examplecorp.com,IT Security,True,2
+USR-0079,Daniel Floyd,daniel.floyd@examplecorp.com,Sales,False,2
+USR-0080,Jeremy Lewis,jeremy.lewis@examplecorp.com,Finance,False,1
+USR-0081,Diane Beck,diane.beck@examplecorp.com,Sales,False,2
+USR-0082,Nicole Chambers,nicole.chambers@examplecorp.com,Sales,False,2
+USR-0083,Angel Riggs,angel.riggs@examplecorp.com,Finance,False,1
+USR-0084,Stephen Johnston,stephen.johnston@examplecorp.com,Sales,False,2
+USR-0085,David Douglas Jr.,david.douglas.jr.@examplecorp.com,Engineering,False,1
+USR-0086,Colleen Brock,colleen.brock@examplecorp.com,IT Security,True,2
+USR-0087,David Charles,david.charles@examplecorp.com,Sales,False,1
+USR-0088,Victoria Larson,victoria.larson@examplecorp.com,Sales,False,1
+USR-0089,Michelle Wagner,michelle.wagner@examplecorp.com,Sales,False,1
+USR-0090,Natasha Wells,natasha.wells@examplecorp.com,Executive,True,1
+USR-0091,Destiny Strickland,destiny.strickland@examplecorp.com,Engineering,False,1
+USR-0092,Billy Mitchell,billy.mitchell@examplecorp.com,Sales,False,2
+USR-0093,Angela Hernandez,angela.hernandez@examplecorp.com,Sales,False,1
+USR-0094,Amy Russell,amy.russell@examplecorp.com,Sales,False,1
+USR-0095,Ross Price,ross.price@examplecorp.com,HR,False,2
+USR-0096,Pamela James,pamela.james@examplecorp.com,Sales,False,2
+USR-0097,James Snow,james.snow@examplecorp.com,Engineering,False,2
+USR-0098,Don Tucker MD,don.tucker.md@examplecorp.com,Finance,False,1
+USR-0099,Sara Calhoun,sara.calhoun@examplecorp.com,HR,False,1
+USR-0100,Leslie Alvarado,leslie.alvarado@examplecorp.com,IT Security,True,2
+USR-0101,Joel Williams,joel.williams@examplecorp.com,IT Security,True,1
+USR-0102,George Hobbs,george.hobbs@examplecorp.com,IT Security,True,1
+USR-0103,Bradley Smith,bradley.smith@examplecorp.com,Finance,False,1
+USR-0104,Barry Bernard,barry.bernard@examplecorp.com,Engineering,False,2
+USR-0105,Christina Smith,christina.smith@examplecorp.com,IT Security,True,1
+USR-0106,Brian Gould,brian.gould@examplecorp.com,IT Security,True,1
+USR-0107,Carol Lawson,carol.lawson@examplecorp.com,Finance,False,2
+USR-0108,Carla Collins,carla.collins@examplecorp.com,IT Security,True,2
+USR-0109,Susan Brooks,susan.brooks@examplecorp.com,Engineering,False,2
+USR-0110,Michael Burton,michael.burton@examplecorp.com,HR,False,2
+USR-0111,Lindsay Martinez,lindsay.martinez@examplecorp.com,Executive,True,2
+USR-0112,Jeffrey Wood,jeffrey.wood@examplecorp.com,HR,False,1
+USR-0113,Jason Henry,jason.henry@examplecorp.com,Sales,False,1
+USR-0114,Sandra Zimmerman,sandra.zimmerman@examplecorp.com,IT Security,True,1
+USR-0115,Tamara Hampton,tamara.hampton@examplecorp.com,HR,False,1
+USR-0116,David Michael,david.michael@examplecorp.com,Finance,False,1
+USR-0117,John Bishop,john.bishop@examplecorp.com,HR,False,1
+USR-0118,Frederick Freeman MD,frederick.freeman.md@examplecorp.com,IT Security,True,2
+USR-0119,Meredith Hill,meredith.hill@examplecorp.com,Executive,True,1
+USR-0120,Nathan Freeman,nathan.freeman@examplecorp.com,IT Security,True,2
+USR-0121,Katherine Mcguire,katherine.mcguire@examplecorp.com,Finance,False,1
+USR-0122,David Beck,david.beck@examplecorp.com,Finance,False,1
+USR-0123,Patrick Rivera,patrick.rivera@examplecorp.com,IT Security,True,1
+USR-0124,David Griffith,david.griffith@examplecorp.com,HR,False,1
+USR-0125,Parker Hill,parker.hill@examplecorp.com,HR,False,1
+USR-0126,Dr. Elizabeth Ward,dr..elizabeth.ward@examplecorp.com,Executive,True,2
+USR-0127,William Tran,william.tran@examplecorp.com,Sales,False,2
+USR-0128,Nicole Garcia,nicole.garcia@examplecorp.com,Finance,False,2
+USR-0129,Jeremiah Lopez,jeremiah.lopez@examplecorp.com,Finance,False,1
+USR-0130,Austin Vasquez,austin.vasquez@examplecorp.com,Engineering,False,2
+USR-0131,Robert Avery,robert.avery@examplecorp.com,Executive,True,2
+USR-0132,Phillip Obrien,phillip.obrien@examplecorp.com,Executive,True,2
+USR-0133,Jamie Kerr,jamie.kerr@examplecorp.com,Finance,False,1
+USR-0134,Marc Lynch,marc.lynch@examplecorp.com,Executive,True,1
+USR-0135,Deborah Miller,deborah.miller@examplecorp.com,Finance,False,2
+USR-0136,Jason Norris,jason.norris@examplecorp.com,IT Security,True,1
+USR-0137,Michael Warner,michael.warner@examplecorp.com,Engineering,False,1
+USR-0138,Rachel Weber,rachel.weber@examplecorp.com,HR,False,1
+USR-0139,Joshua Holland,joshua.holland@examplecorp.com,Engineering,False,1
+USR-0140,Christopher Parker,christopher.parker@examplecorp.com,Finance,False,2
+USR-0141,John Torres,john.torres@examplecorp.com,Sales,False,1
+USR-0142,Katherine Miller,katherine.miller@examplecorp.com,Engineering,False,1
+USR-0143,Lindsey Johnson,lindsey.johnson@examplecorp.com,Finance,False,1
+USR-0144,Miss Debra Williams PhD,miss.debra.williams.phd@examplecorp.com,HR,False,2
+USR-0145,Catherine Richards,catherine.richards@examplecorp.com,Executive,True,1
+USR-0146,Julie Ortiz,julie.ortiz@examplecorp.com,Engineering,False,1
+USR-0147,Erin Steele,erin.steele@examplecorp.com,Finance,False,2
+USR-0148,Krista Gibson,krista.gibson@examplecorp.com,Engineering,False,2
+USR-0149,Raymond Hancock,raymond.hancock@examplecorp.com,HR,False,1
+USR-0150,Kimberly Gutierrez,kimberly.gutierrez@examplecorp.com,Finance,False,1
